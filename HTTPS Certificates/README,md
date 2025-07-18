@@ -1,0 +1,10 @@
+Hi mate!
+
+I hope this script helps you check your SSL certificates.
+It’s simple to use – just add your URLs to the list called "url_list".
+At the end, the script will generate a CSV report named "ssl_results.csv" and that’s it!
+
+If you want, feel free to contribute to the code.
+
+Enjoy!
+
